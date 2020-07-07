@@ -1,6 +1,6 @@
 # mod-player-can-get-exp
 
-This module fork from official module WarheadCore [mod-player-can-get-exp](https://github.com/WarheadCore/WarheadCore/tree/master/modules/mod-player-can-get-exp)
+This module fork from official module WarheadCore [mod-player-can-get-exp](https://github.com/WarheadCore/WarheadCore/tree/master/modules/mod-player-can-get-exp) and adapted for AzerothCore
 
 ## Credits
 * Author - [Winfidonarleyan](https://github.com/Winfidonarleyan)
